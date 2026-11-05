@@ -1,0 +1,9 @@
+{
+  "routes": [
+    { "path": "/", "title": "Dashboard" },
+    { "path": "/pos", "title": "Point of Sale" },
+    { "path": "/products", "title": "Products" },
+    { "path": "/inventory", "title": "Inventory" },
+    { "path": "/sales", "title": "Sales history" }
+  ]
+}
